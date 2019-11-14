@@ -1,0 +1,18 @@
+{ "Datatypes":"Ezek vannak",
+	"Típusai":
+	[
+	{
+	"String":"szöveg", "Vagy":"Bármi idézőjelek közé beírva 1234" 
+	},
+	{
+	"Mennyiség":1, "Vagy":100, "Egyébként":10.1234
+	},
+	{
+	"Boolean":true, "Vagy":false
+	},
+	{
+	"abc":null
+	}
+	],
+	"Lista":[1,2,3,4, {},[]]
+}
